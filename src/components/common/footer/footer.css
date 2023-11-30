@@ -1,0 +1,26 @@
+.footer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+
+}
+
+.header-logo{
+    height: 27px;
+    max-width: 140px;
+    margin-right: 24px;
+}
+
+.absolute-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-head-btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
